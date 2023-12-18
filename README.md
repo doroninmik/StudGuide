@@ -1,13 +1,11 @@
 # СтудГид - приложение-компаньон для преподавателей и студентов СФ МЭИ
 
 ## Главный функционал:
-## 1. Расписание занятий 
-(based\readMeImages\schedule.png)
 
-## 2. Карта института 
-(based\readMeImages\map.png)
+![Расписание занятий](/based/readMeImages/schedule.png)
 
-## 3. Заметки
-(based\readMeImages\notes.png)
+![Карта института](/based/readMeImages/map.png)
+
+![Заметки](/based/readMeImages/notes.png)
 
 ----------------------------------------------------------------------------------
